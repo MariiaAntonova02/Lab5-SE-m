@@ -12,7 +12,7 @@
     </properties>
 
     <build>
-        <finalName>Laba5-SE</finalName>
+        <finalName>Laba5-SE-m</finalName>
         <pluginManagement>
             <plugins>
                 <plugin>
